@@ -69,6 +69,9 @@ email: ""
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
+
+# resume inline, added at the end of the file if needed
+#{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}CV{{< /staticref >}}.
 ---
 
 I am a DPhil student at the Mathematical Institute, University of Oxford, working on identifying different relationships between products from sales transaction data, in conjunction with our industrial partner [Tesco](https://www.tesco.com/). Understanding the hidden relations between products is essential in both economics and marketing research as well as in retail. In my doctoral project, we consider the problem from a network perspective, as the role extraction in bipartite networks, and further develop customised methods from this angle.  
@@ -76,5 +79,3 @@ I am a DPhil student at the Mathematical Institute, University of Oxford, workin
 I am part of Cohort 5 in the [EPSRC Centre for Doctoral Training for Industrially Focused Mathematical Modelling (InFoMM)](https://www.maths.ox.ac.uk/study-here/postgraduate-study/industrially-focused-mathematical-modelling-epsrc-cdt/).
 
 My project is supervised by Prof. [Renaud Lambiotte](https://www.maths.ox.ac.uk/people/renaud.lambiotte/). 
-# resume inline
-#{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}CV{{< /staticref >}}.

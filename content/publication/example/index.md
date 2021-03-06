@@ -44,7 +44,7 @@ featured: true
 
 # Custom links (uncomment lines below)
 links:
-- name: preprint
+- name: Preprint
   url: https://arxiv.org/abs/2103.02042
 
 url_pdf: 'https://arxiv.org/pdf/2103.02042.pdf'
@@ -68,14 +68,14 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- example
+projects: []
+#- example
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
 {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.

@@ -76,5 +76,5 @@ I am a DPhil student at the Mathematical Institute, University of Oxford, workin
 I am part of Cohort 5 in the [EPSRC Centre for Doctoral Training for Industrially Focused Mathematical Modelling (InFoMM)](https://www.maths.ox.ac.uk/study-here/postgraduate-study/industrially-focused-mathematical-modelling-epsrc-cdt/).
 
 My project is supervised by Prof. [Renaud Lambiotte](https://www.maths.ox.ac.uk/people/renaud.lambiotte/). 
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}CV{{< /staticref >}}.
+# resume inline
+#{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}CV{{< /staticref >}}.

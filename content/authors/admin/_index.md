@@ -49,7 +49,7 @@ social:
   link: https://twitter.com/tianyueve
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: 
+  link: https://scholar.google.co.uk/citations?user=qh09pkoAAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/yuoohmaths

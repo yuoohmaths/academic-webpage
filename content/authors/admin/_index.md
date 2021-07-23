@@ -6,7 +6,7 @@ title: Yu Tian
 superuser: true
 
 # Role/position/tagline
-role: DPhil student 
+role: PhD student 
 
 # Organizations/Affiliations to show in About widget
 organizations:

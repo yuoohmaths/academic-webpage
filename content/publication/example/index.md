@@ -16,21 +16,21 @@ authors:
 #- "Equal contribution"
 #- "Equal contribution"
 
-date: "2021-03-04T00:00:00Z"
-doi: ""
+date: "2021-08-25T00:00:00Z"
+doi: "10.1140/epjds/s13688-021-00297-4"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-03-04T00:00:00Z"
+publishDate: "2021-08-25T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *arXiv*
-publication_short: In *arXiv*
+publication: In *EPJ Data Science*
+publication_short: In *EPJ Data Sci.*
 
 abstract: The complementarity and substitutability between products are essential concepts in retail and marketing. Qualitatively, two products are said to be substitutable if a customer can replace one product by the other, while they are complementary if they tend to be bought together. In this article, we take a network perspective to help automatically identify complements and substitutes from sales transaction data. Starting from a bipartite product-purchase network representation, with both transaction nodes and product nodes, we develop appropriate null models to infer significant relations, either complements or substitutes, between products, and design measures based on random walks to quantify their importance. The resulting unipartite networks between products are then analysed with community detection methods, in order to find groups of similar products for the different types of relationships. The results are validated by combining observations from a real-world basket dataset with the existing product hierarchy, as well as a large-scale flavour compound and recipe dataset.
 

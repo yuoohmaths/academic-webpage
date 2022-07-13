@@ -74,8 +74,8 @@ highlight_name: false
 #{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}CV{{< /staticref >}}.
 ---
 
-I am a PhD student at the Mathematical Institute, University of Oxford, working on various aspects of network science. There are many fundamental problems in industry that are also of great research value. With our industrial partner [Tesco](https://www.tesco.com/), we are particularly interested in the retail industry, where two primary problems would be to understand the intrinsic relationships between products, including complements and substitutes.
+I am a PhD student at the Mathematical Institute, University of Oxford, working on various aspects of network science. There are many fundamental problems in industry that are also of great research value. With our industrial partner [Tesco](https://www.tesco.com/), we are particularly interested in the retail industry, where one primary problem would be to understand the intrinsic relationships between products, including complements and substitutes.
 
 I am part of Cohort 5 in the [EPSRC Centre for Doctoral Training for Industrially Focused Mathematical Modelling (InFoMM)](https://www.maths.ox.ac.uk/study-here/postgraduate-study/industrially-focused-mathematical-modelling-epsrc-cdt/).
 
-My project is supervised by Prof. [Renaud Lambiotte](https://www.maths.ox.ac.uk/people/renaud.lambiotte/). 
+My doctoral research is supervised by Prof. [Renaud Lambiotte](https://www.maths.ox.ac.uk/people/renaud.lambiotte/). 

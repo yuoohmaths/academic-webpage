@@ -1,5 +1,5 @@
 ---
-title: "Extracting Complements and Substitutes from Sales Data: A Network Perspective"
+title: "Extracting complements and substitutes from sales data: a network perspective"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 

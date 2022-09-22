@@ -14,21 +14,21 @@ authors:
 #- "Equal contribution"
 #- "Equal contribution"
 
-date: "2021-12-02T00:00:00Z"
-doi: ""
+date: "2022-08-30T00:00:00Z"
+doi: "10.1103/PhysRevE.106.034316"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-12-02T00:00:00Z"
+publishDate: "2022-09-16T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *arXiv*
-publication_short: In *arXiv*
+publication: In *Physcial Review E*
+publication_short: In *Phys. Rev. E*
 
 abstract: Information propagation on networks is a central theme in social, behavioural, and economic sciences, with important theoretical and practical implications, such as the influence maximisation problem for viral marketing. Here, we consider a model that unifies the classical independent cascade models and the linear threshold models, and generalise them  by considering continuous variables and allowing feedback in the dynamics. We then formulate its influence maximisation as a mixed integer nonlinear programming problem and adopt derivative-free methods. Furthermore, we show that the problem can be exactly solved in the special case of linear dynamics, where the selection criteria is closely related to the Katz centrality, and propose a customised direct search method with local convergence. We then demonstrate the close-to-optimal performance of the customised direct search numerically on both synthetic and real networks. 
 

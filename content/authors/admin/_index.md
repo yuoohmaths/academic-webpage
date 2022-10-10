@@ -10,7 +10,7 @@ role: WINQ Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Nordita, Stockholm University and KTH Royal Institute of Technology
+- name: Nordita
   url: https://www.nordita.org/
 
 # Short bio (displayed in user profile at end of posts)
@@ -74,4 +74,6 @@ highlight_name: false
 #{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}CV{{< /staticref >}}.
 ---
 
-I am a Wallenberg Initiative on Networks and Quantum information (WINQ) Fellow at Nordita, hosted by Stockholm University and KTH Royal Institute of Technology. My research involves various aspects of network science, including dynamics, the incorporation of networks signs, and community detection. I received my PhD from University of Oxford, where I was very fortunate to be supervised by [Renaud Lambiotte](https://www.maths.ox.ac.uk/people/renaud.lambiotte/) and also my industrial collaborators from [Tesco Data Science Team](https://www.tesco.com/). I was also part of Cohort 5 in the [EPSRC Centre for Doctoral Training for Industrially Focused Mathematical Modelling (InFoMM)](https://www.maths.ox.ac.uk/study-here/postgraduate-study/industrially-focused-mathematical-modelling-epsrc-cdt/).
+I am a Wallenberg Initiative on Networks and Quantum information (WINQ) Fellow at Nordita, hosted by Stockholm University and KTH Royal Institute of Technology. My research involves various aspects of network science, including dynamics and optimisation, the incorporation of negative signs (e.g. friend-foe relationships), and community detection. 
+
+I received my PhD from University of Oxford, where I was very fortunate to be supervised by [Renaud Lambiotte](https://www.maths.ox.ac.uk/people/renaud.lambiotte/) and also my industrial collaborators from [Tesco Data Science Team](https://www.tesco.com/). I was also part of Cohort 5 in the [EPSRC Centre for Doctoral Training for Industrially Focused Mathematical Modelling (InFoMM)](https://www.maths.ox.ac.uk/study-here/postgraduate-study/industrially-focused-mathematical-modelling-epsrc-cdt/).

@@ -6,29 +6,29 @@ title: Yu Tian
 superuser: true
 
 # Role/position/tagline
-role: PhD student 
+role: WINQ Fellow 
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Oxford
-  url: https://www.maths.ox.ac.uk/
+- name: Nordita, Stockholm University and KTH Royal Institute of Technology
+  url: https://www.nordita.org/
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-- Role Extraction
-- Community Detection/Clustering
 - Networks and Complex Systems
-- Data Analysis
+- Dynamics on networks
+- Networks of positive and negative signs (signed networks)
+- Community Detection/Clustering
 
 # Education to show in About widget
 education:
   courses:
   - course: PhD in Mathematics
     institution: University of Oxford
-    year: 2018 - current
+    year: 2018 - 2022
   - course: BSc in Mathematics and Statistics (2+2 dual degree)
     institution: University of Manchester
     year: 2016 - 2018
@@ -74,8 +74,4 @@ highlight_name: false
 #{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}CV{{< /staticref >}}.
 ---
 
-I am a PhD student at the Mathematical Institute, University of Oxford, working on various aspects of network science. There are many fundamental problems in industry that are also of great research value. With our industrial partner [Tesco](https://www.tesco.com/), we are particularly interested in the retail industry, where one primary problem would be to understand the intrinsic relationships between products, including complements and substitutes.
-
-I am part of Cohort 5 in the [EPSRC Centre for Doctoral Training for Industrially Focused Mathematical Modelling (InFoMM)](https://www.maths.ox.ac.uk/study-here/postgraduate-study/industrially-focused-mathematical-modelling-epsrc-cdt/).
-
-My doctoral research is supervised by Prof. [Renaud Lambiotte](https://www.maths.ox.ac.uk/people/renaud.lambiotte/). 
+I am a Wallenberg Initiative on Networks and Quantum information (WINQ) Fellow at Nordita, hosted by Stockholm University and KTH Royal Institute of Technology. My research involves various aspects of network science, including dynamics, the incorporation of networks signs, and community detection. I received my PhD from University of Oxford, where I was very fortunate to be supervised by [Renaud Lambiotte](https://www.maths.ox.ac.uk/people/renaud.lambiotte/) and also my industrial collaborators from [Tesco Data Science Team](https://www.tesco.com/). I was also part of Cohort 5 in the [EPSRC Centre for Doctoral Training for Industrially Focused Mathematical Modelling (InFoMM)](https://www.maths.ox.ac.uk/study-here/postgraduate-study/industrially-focused-mathematical-modelling-epsrc-cdt/).

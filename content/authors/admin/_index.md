@@ -19,9 +19,9 @@ organizations:
 # Interests to show in About widget
 interests:
 - Networks and Complex Systems
-- Dynamics on networks
-- Networks of positive and negative signs (signed networks)
-- Community Detection/Clustering
+# - Dynamics on networks
+# - Networks of positive and negative signs (signed networks)
+# - Community Detection/Clustering
 
 # Education to show in About widget
 education:
@@ -29,12 +29,12 @@ education:
   - course: PhD in Mathematics
     institution: University of Oxford
     year: 2018 - 2022
-  - course: BSc in Mathematics and Statistics (2+2 dual degree)
-    institution: University of Manchester
-    year: 2016 - 2018
-  - course: BSc in Mathematics (2+2 dual degree)
-    institution: Beijing Institute of Technology
-    year: 2014 - 2016
+ # - course: BSc in Mathematics and Statistics (2+2 dual degree)
+ #   institution: University of Manchester
+ #   year: 2016 - 2018
+ # - course: BSc in Mathematics (2+2 dual degree)
+ #   institution: Beijing Institute of Technology
+ #   year: 2014 - 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

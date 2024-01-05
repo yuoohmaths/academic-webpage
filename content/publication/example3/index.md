@@ -15,7 +15,7 @@ authors:
 #- "Equal contribution"
 
 #date: "2022-12-20T00:00:00Z"
-#doi: ""
+#doi: "10.1137/22M1542325"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-12-21T00:00:00Z"
@@ -24,15 +24,15 @@ publishDate: "2022-12-21T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *arXiv*
-publication_short: In *arXiv*
+publication: In *SIAM Journal on Applied Dynamical Systems*
+publication_short: In *SIAM J. Appl. Dyn. Syst.*
 
-abstract: Two competing types of interactions often play an important part in shaping system behavior, such as activatory or inhibitory functions in biological systems. Hence, signed networks, where each connection can be either positive or negative, have become popular models over recent years. However, the primary focus of the literature is on the unweighted and structurally balanced ones, where all cycles have an even number of negative edges. Hence here, we first introduce a classification of signed networks into balanced, antibalanced or strictly balanced ones, and then characterize each type of signed networks in terms of the spectral properties of the signed weighted adjacency matrix. In particular, we show that the spectral radius of the matrix with signs is smaller than that without if and only if the signed network is strictly unbalanced. These properties are important to understand the dynamics on signed networks, both linear and nonlinear ones. Specifically, we find consistent patterns in a linear and a nonlinear dynamics theoretically, depending on their type of balance. We also propose two measures to further characterize strictly unbalanced networks, motivated by perturbation theory. Finally, we numerically verify these properties through experiments on both synthetic and real networks.
+abstract: Two competing types of interactions often play an important part in shaping system behavior, such as activatory or inhibitory functions in biological systems. Hence, signed networks, where each connection can be either positive or negative, have become popular models over recent years. However, the primary focus of the literature is on the unweighted and structurally balanced ones, where all cycles have an even number of negative edges. Hence here, we first introduce a classification of signed networks into balanced, antibalanced or strictly unbalanced ones, and then characterize each type of signed networks in terms of the spectral properties of the signed weighted adjacency matrix. In particular, we show that the spectral radius of the matrix with signs is smaller than that without if and only if the signed network is strictly unbalanced. These properties are important to understand the dynamics on signed networks, both linear and nonlinear ones. Specifically, we find consistent patterns in a linear and a nonlinear dynamics theoretically, depending on their type of balance. We also propose two measures to further characterize strictly unbalanced networks, motivated by perturbation theory. Finally, we numerically verify these properties through experiments on both synthetic and real networks. 
 # Summary. An optional shortened abstract.
-summary: Here, we first introduce a classification of signed networks into balanced, antibalanced or strictly balanced ones, and then characterize each type of signed networks in terms of the spectral properties of the signed weighted adjacency matrix. Then we find consistent patterns in a linear and a nonlinear dynamics theoretically, depending on their type of balance. 
+summary: Here, we first introduce a classification of signed networks into balanced, antibalanced or strictly unbalanced ones, and then characterize each type of signed networks in terms of the spectral properties of the signed weighted adjacency matrix. Then we find consistent patterns in a linear and a nonlinear dynamics theoretically, depending on their type of balance. 
 tags: []
 
 # Display this page in the Featured widget?

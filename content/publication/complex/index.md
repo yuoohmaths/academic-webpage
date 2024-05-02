@@ -15,20 +15,20 @@ authors:
 #- "Equal contribution"
 
 #date: "2023-07-04T00:00:00Z"
-#doi: ""
+#doi: "0.1137/23M1584265"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-07-06T00:00:00Z"
+publishDate: "2024-05-03T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *arXiv*
-publication_short: In *arXiv*
+publication: In *SIAM J. Math. Data Sci.*
+publication_short: In *SIAM J. Math. Data Sci.*
 
 abstract: Complex numbers define the relationship between entities in many situations. A canonical example would be the off-diagonal terms in a Hamiltonian matrix in quantum physics. Recent years have seen an increasing interest to extend the tools of network science when the weight of edges are complex numbers. Here, we focus on the case when the weight matrix is Hermitian, a reasonable assumption in many applications, and investigate both structural and dynamical properties of the complex-weighted networks. Building on concepts from signed graphs, we introduce a classification of complex-weighted networks based on the notion of structural balance, and illustrate the shared spectral properties within each type. We then apply the results to characterise the dynamics of random walks on complex-weighted networks, where local consensus can be achieved asymptotically when the graph is structurally balanced, while global consensus will be obtained when it is strictly unbalanced. Finally, we explore potential applications of our findings by generalising the notion of cut, and propose an associated spectral clustering algorithm. We also provide further characteristics of the magnetic Laplacian, associating directed networks to complex-weighted ones. The performance of the algorithm is verified on both synthetic and real networks.
 # Summary. An optional shortened abstract.

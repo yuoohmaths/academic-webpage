@@ -10,10 +10,10 @@ role: ELBE Postdoc Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: [MPI-PKS](https://www.pks.mpg.de/)/[MPI-CBG](https://www.mpi-cbg.de/)/[CSBD](https://www.csbdresden.de/) 
-#  url: https://www.pks.mpg.de/
-# - name: MPI-CBG
-#  url: https://www.mpi-cbg.de/
+- name: MPI PKS 
+  url: https://www.pks.mpg.de/
+- name: MPI CBG
+  url: https://www.mpi-cbg.de/
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.

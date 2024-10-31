@@ -16,11 +16,11 @@ authors:
 #- "Equal contribution"
 #- "Equal contribution"
 
-#date: "2023-07-04T00:00:00Z"
+#date: "2024-10-07T00:00:00Z"
 #doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-07-06T00:00:00Z"
+publishDate: "2024-10-07T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -34,7 +34,7 @@ publication_short: In *arXiv*
 
 abstract: Complex numbers define the relationship between entities in many situations. A canonical example would be the off-diagonal terms in a Hamiltonian matrix in quantum physics. Recent years have seen an increasing interest to extend the tools of network science when the weight of edges are complex numbers. Here, we focus on the case when the weight matrix is Hermitian, a reasonable assumption in many applications, and investigate both structural and dynamical properties of the complex-weighted networks. Building on concepts from signed graphs, we introduce a classification of complex-weighted networks based on the notion of structural balance, and illustrate the shared spectral properties within each type. We then apply the results to characterise the dynamics of random walks on complex-weighted networks, where local consensus can be achieved asymptotically when the graph is structurally balanced, while global consensus will be obtained when it is strictly unbalanced. Finally, we explore potential applications of our findings by generalising the notion of cut, and propose an associated spectral clustering algorithm. We also provide further characteristics of the magnetic Laplacian, associating directed networks to complex-weighted ones. The performance of the algorithm is verified on both synthetic and real networks.
 # Summary. An optional shortened abstract.
-summary: Here, we focus on the case when the weight matrix can contain complex numbers but is Hermitian, and investigate both structural and dynamical properties of the complex-weighted networks. Building on concepts from signed graphs, we introduce a classification of complex-weighted networks based on the notion of structural balance, and illustrate the shared spectral properties within each type. We then apply the results to characterise the dynamics of random walks on complex-weighted networks. Finally, we explore potential applications of our findings by generalising the notion of cut, and propose an associated spectral clustering algorithm. We also provide further characteristics of the magnetic Laplacian, associating directed networks to complex-weighted ones.
+summary: Here, we focus on the case when the edge weights are characterised by matrices, and investigate both structural and dynamical properties of the matrix-weighted networks (MWNs). Building on concepts from signed and complex-weighted graphs, we introduce the notion of coherence in MWNs, and illustrate the spectral properties and dynamical implications in consensus dynamics and random walks. The results are verified on synthetic networks with matrix weights.
 tags: []
 
 # Display this page in the Featured widget?

@@ -6,12 +6,14 @@ title: Yu Tian
 superuser: true
 
 # Role/position/tagline
-role: WINQ Research Fellow 
+role: ELBE Postdoc Fellow 
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Nordita
-  url: https://en.wikipedia.org/wiki/Nordic_Institute_for_Theoretical_Physics
+- name: [MPI-PKS](https://www.pks.mpg.de/)/[MPI-CBG](https://www.mpi-cbg.de/)/[CSBD](https://www.csbdresden.de/) 
+#  url: https://www.pks.mpg.de/
+# - name: MPI-CBG
+#  url: https://www.mpi-cbg.de/
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -74,8 +76,8 @@ highlight_name: false
 #{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}CV{{< /staticref >}}.
 ---
 
-I am a research fellow at Nordita, funded by Wallenberg Initiative on Networks and Quantum information (WINQ). My PIs are Prof. Frank Wilczek ([Nordita](https://www.nordita.org/people/staff/index.php?u=frank.wilczek) and [MIT](https://physics.mit.edu/faculty/frank-wilczek/)) and Prof. John Wettlaufer ([Nordita](https://www.nordita.org/people/staff/index.php?u=john.wettlaufer) and [Yale](https://physics.yale.edu/people/john-wettlaufer)). My research involves various aspects of network science, including dynamics and optimisation, the incorporation of negative (e.g. friend-foe relationships) and complex-valued weights, and community detection. 
+I am a [ELBE postdoc fellow](https://www.csbdresden.de/join-us/as-a-postdoc/) at [Center for Systems Biology Dresden](https://www.csbdresden.de/) (CSBD),  [Max Planck Institute for Physics of Complex Systems](https://www.pks.mpg.de/) (MPI PKS) and the [Max Planck Institute for Cell Biology and Genetics](https://www.mpi-cbg.de/) (MPI CBG). My research focuses on the interaction between structure and dynamics in network systems, specifically when the relationship between entities is necessarily characterised by a real or complex value, or a matrix. I also work on the downstream applications in biological and quantum systems, and machine learning. 
 
-I received my PhD from University of Oxford, where I was very fortunate to be supervised by Prof. [Renaud Lambiotte](https://www.maths.ox.ac.uk/people/renaud.lambiotte/) and also my industrial collaborators from [Tesco Data Science Team](https://www.tesco.com/). I was also part of Cohort 5 in the [EPSRC Centre for Doctoral Training for Industrially Focused Mathematical Modelling (InFoMM)](https://www.maths.ox.ac.uk/study-here/postgraduate-study/industrially-focused-mathematical-modelling-epsrc-cdt/).
+I received my PhD from the University of Oxford in Oct. 2022, under the supervision of Prof. [Renaud Lambiotte](https://www.maths.ox.ac.uk/people/renaud.lambiotte/) and in collaboration with [Tesco Data Science Team](https://www.tesco.com/). Between 2022 and 2024, I was a research fellow at Nordita, funded by Wallenberg Initiative on Networks and Quantum information (PIs: Prof. Frank Wilczek at [Nordita](https://www.nordita.org/people/staff/index.php?u=frank.wilczek) and [MIT](https://physics.mit.edu/faculty/frank-wilczek/) and Prof. John Wettlaufer at [Nordita](https://www.nordita.org/people/staff/index.php?u=john.wettlaufer) and [Yale](https://physics.yale.edu/people/john-wettlaufer)).
 
 Please find my [CV](https://ytian.netlify.app/uploads/cv.pdf) here.

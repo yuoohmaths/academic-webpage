@@ -17,10 +17,10 @@ authors:
 #- "Equal contribution"
 
 date: "2024-10-07T00:00:00Z"
-doi: "10.1137/23M1584265"
+# doi: "10.48550/arXiv.2410.05188"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "10.48550/arXiv.2410.05188"
+publishDate: "2024-10-07T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -32,9 +32,9 @@ publication_types: ["3"]
 publication: In *arXiv*
 publication_short: In *arXiv*
 
-abstract: Networks are powerful tools for modeling interactions in complex systems. While traditional networks use scalar edge weights, many real-world systems involve multidimensional interactions. For example, in social networks, individuals often have multiple interconnected opinions that can affect different opinions of other individuals, which can be better characterized by matrices. We propose a novel, general framework for modeling such multidimensional interacting dynamics: matrix-weighted networks, MWNs. We present the mathematical foundations of MWNs and examine consensus dynamics and random walks within this context. Our results reveal that the coherence of MWNs gives rise to non-trivial steady states that generalize the notions of communities and structural balance in traditional networks.
+abstract: Networks are powerful tools for modeling interactions in complex systems. While traditional networks use scalar edge weights, many real-world systems involve multidimensional interactions. For example, in social networks, individuals often have multiple interconnected opinions that can affect different opinions of other individuals, which can be better characterized by matrices. We propose a novel, general framework for modeling such multidimensional interacting dynamics: matrix-weighted networks (MWNs). We present the mathematical foundations of MWNs and examine consensus dynamics and random walks within this context. Our results reveal that the coherence of MWNs gives rise to non-trivial steady states that generalize the notions of communities and structural balance in traditional networks.
 # Summary. An optional shortened abstract.
-summary: Here, we focus on the case when the edge weight is characterized by a matrix, and investigate both structural and dynamical properties of the matrix-weighted networks, MWNs. Building on concepts from signed and complex-weighted graphs, we introduce the notion of coherence, and illustrate the implication of dynamics. 
+summary: Here, we focus on the case when the edge weight is characterized by a matrix, and investigate both structural and dynamical properties of the matrix-weighted networks (MWNs). Building on concepts from signed and complex-weighted graphs, we introduce the notion of coherence, and illustrate the implication of dynamics. 
 tags: []
 
 # Display this page in the Featured widget?

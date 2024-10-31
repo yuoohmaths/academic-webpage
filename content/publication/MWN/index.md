@@ -57,7 +57,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**What is quantum mechanics?**](https://www.livescience.com/33816-quantum-mechanics-explanation.html)'
+  caption: 'Figure 1'
   focal_point: ""
   preview_only: false
 

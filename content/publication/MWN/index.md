@@ -43,9 +43,9 @@ featured: false
 # Custom links (uncomment lines below)
 links:
 - name: Preprint
-  url: https://arxiv.org/abs/2307.01813
+  url: https://arxiv.org/abs/2410.05188
 
-url_pdf: 'https://arxiv.org/pdf/2307.01813.pdf'
+url_pdf: 'https://arxiv.org/pdf/2410.05188.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

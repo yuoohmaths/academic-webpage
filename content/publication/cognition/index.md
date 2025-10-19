@@ -15,21 +15,21 @@ author_notes:
 - "Equal contribution"
 - "Equal contribution"
 
-#date: "2024-02-04T00:00:00Z"
-#doi: ""
+date: "2025-01-22T00:00:00Z"
+doi: "10.1098/rsif.2024.0402"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-02-04T00:00:00Z"
+publishDate: "2025-01-22T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *arXiv*
-publication_short: In *arXiv*
+publication: In *Journal of Royal Society Interface*
+publication_short: In *J. R. Soc. Interface*
 
 abstract: Building mathematical models of brains is difficult because of the sheer complexity of the problem. One potential approach is to start by identifying models of basal cognition, which give an abstract representation of a range organisms without central nervous systems, including fungi, slime moulds and bacteria. We propose one such model, demonstrating how a combination of oscillatory and current-based reinforcement processes can be used to couple resources in an efficient manner. We first show that our model connects resources in an efficient manner when the environment is constant. We then show that in an oscillatory environment our model builds efficient solutions, provided the environmental oscillations are sufficiently out of phase. We show that amplitude differences can promote efficient solutions and that the system is robust to frequency differences. We identify connections between our model and basal cognition in biological systems and slime moulds, in particular, showing how oscillatory and problem-solving properties of these systems are captured by our model.
 # Summary. An optional shortened abstract.

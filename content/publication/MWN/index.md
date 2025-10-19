@@ -1,5 +1,5 @@
 ---
-title: "Matrix-weighted networks for modeling multidimensional dynamics"
+title: "Matrix-weighted networks for modeling multidimensional dynamics: theoretical foundations and applications to network coherence"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -16,21 +16,21 @@ authors:
 #- "Equal contribution"
 #- "Equal contribution"
 
-#date: "2024-10-07T00:00:00Z"
-#doi: ""
+#date: "2025-06-13T00:00:00Z"
+#doi: "doi.org/10.1103/jw1k-6s7w"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-10-07T00:00:00Z"
+publishDate: "2025-06-13T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *arXiv*
-publication_short: In *arXiv*
+publication: In *Physical Review Letters*
+publication_short: In *Phys. Rev. Lett.*
 
 abstract: Networks are powerful tools for modeling interactions in complex systems. While traditional networks use scalar edge weights, many real-world systems involve multidimensional interactions. For example, in social networks, individuals often have multiple interconnected opinions that can affect different opinions of other individuals, which can be better characterized by matrices. We propose a novel, general framework for modeling such multidimensional interacting dynamics -- matrix-weighted networks (MWNs). We present the mathematical foundations of MWNs and examine consensus dynamics and random walks within this context. Our results reveal that the coherence of MWNs gives rise to non-trivial steady states that generalize the notions of communities and structural balance in traditional networks.
 # Summary. An optional shortened abstract.

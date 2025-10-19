@@ -16,8 +16,8 @@ authors:
 #- "Equal contribution"
 #- "Equal contribution"
 
-#date: "2025-06-13T00:00:00Z"
-#doi: "doi.org/10.1103/jw1k-6s7w"
+date: "2025-06-13T00:00:00Z"
+doi: "doi.org/10.1103/jw1k-6s7w"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-06-13T00:00:00Z"
